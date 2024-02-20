@@ -1,6 +1,6 @@
 # 🦸🏼🦸🏾‍♂️ Community dApps for Polymer 🦸🏾‍♀️🦸🏻
 
-Welcome to the official repository for [Polymer](https://polymerlabs.org) demo applications! This repository serves as a centralized hub for the demo dApps created by the Polymer community!
+Welcome to the official repository for [Polymer](https://polymerlabs.org) community demo applications! This repository serves as a centralized hub for the demo dApps created by the Polymer community!
 
 We highly encourage our community to build new demos showcasing the capabilities and use cases of Polymer x [IBC](https://ibcprotocol.dev) interoperability.
 
