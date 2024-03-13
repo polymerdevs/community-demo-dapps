@@ -3,10 +3,10 @@
 Template:
 
 ```
-- Name:
-- GitHub url: 
-- Documentation:
-- Website:
-- Socials: 
-- Attribution: [@GH_handle(s)]
+- Name: "FEKUpolymer"
+- GitHub url: "https://github.com/FEKUUUU",
+- Documentation: "index.html",
+- Website: "https://FEKUUU.github.io/community-demo-dapps",
+- Socials: "https://twitter.com/fekuuuu",
+- Attribution: "polymerdevs/community-demo-dapps"
 ```
