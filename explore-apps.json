@@ -1,12 +1,8 @@
-# Explore community projects
-
-Template:
-
-```
-- Name: "FEKUpolymer"
-- GitHub url: "https://github.com/FEKUUUU",
-- Documentation: "index.html",
-- Website: "https://FEKUUU.github.io/community-demo-dapps",
-- Socials: "https://twitter.com/fekuuuu",
-- Attribution: "polymerdevs/community-demo-dapps"
-```
+{
+ "Name" : "FEKUpolymer",
+ "GitHub url" : "https://github.com/FEKUUUU",
+ "Documentation" : "index.html",
+ "Website" : "https://FEKUUU.github.io/community-demo-dapps/",
+ "Socials" : "https://twitter.com/fekuuuu",
+ "Attribution" : "polymerdevs/community-demo-dapps"
+}
