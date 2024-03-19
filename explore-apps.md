@@ -1,12 +1,12 @@
 # Explore community projects
 
-Template:
+IBC-NFT-Vote Application:
 
-```
-- Name:
-- GitHub url: 
-- Documentation:
-- Website:
-- Socials: 
-- Attribution: [@GH_handle(s)]
+```markdown
+- Name: Ken Miyachi
+- GitHub url: https://github.com/kenobijon/nft-vote-polymer
+- Documentation: https://github.com/kenobijon/nft-vote-polymer/blob/main/README.md
+- Website: N/A
+- Socials: @kenjonmiyachi
+- Attribution: @kenobijon
 ```
