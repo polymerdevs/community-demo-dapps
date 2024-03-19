@@ -1,0 +1,3 @@
+[submodule "community/nft-vote-polymer"]
+	path = community/nft-vote-polymer
+	url = https://github.com/kenobijon/nft-vote-polymer
