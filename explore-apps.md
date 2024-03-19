@@ -17,5 +17,5 @@ IBC-NFT-Vote Application:
 - Documentation: https://github.com/yurakas97/dapp/blob/main/README.md
 - Website: https://yurakas97.github.io/site
 - Socials: @yura_kas (telegram)
-- Attribution:
+- Attribution: @yurakas
 ```
