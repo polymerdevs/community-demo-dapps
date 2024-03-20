@@ -10,3 +10,14 @@ IBC-NFT-Vote Application:
 - Socials: @kenjonmiyachi
 - Attribution: @kenobijon
 ```
+
+Bet NBA:
+
+```markdown
+- Name: Bet NBA
+- GitHub url: https://github.com/0xVivaLabs/polymer-testnet1-nba
+- Documentation: https://github.com/0xVivaLabs/polymer-testnet1-nba/blob/nba/README.md
+- Website: https://bet-nba.vercel.app/
+- Socials: @0xvivalabs
+- Attribution: [@script-money, @Glacier-Luo]
+```
