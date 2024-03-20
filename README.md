@@ -27,21 +27,12 @@ Title
 
 ## Step 2: Add your project to the repository
 
-### Option 1: Direct Contribution
+Add your repository as a git submodule:
 
-You can add the code of your project directly to the repo. We **recommend however to use Option 2** using git submodules to keep the repo lightweight.
-
-1. **Fork the Repository:** Start by forking this repository.
-2. **Add Your Demo App:** Place your demo app in the `/community` directory (separate directory for your project).
-
-### Option 2: Adding as a Git Submodule
-
-To add your repository as a git submodule:
-
-1. **Clone the Main Repository:** If you haven't already, clone this repository:
+1. **Fork the Main Repository:** If you haven't already, Fork the repository and then clone your forked repository repository:
 
    ```bash
-   git clone [Main Repository URL]
+   gh repo fork [Main Repository URL]
    ```
 
 2. **Add Your Repository as a Submodule:**
