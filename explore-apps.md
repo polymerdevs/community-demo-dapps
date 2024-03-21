@@ -21,3 +21,13 @@ Bet NBA:
 - Socials: @0xvivalabs
 - Attribution: [@script-money, @Glacier-Luo]
 ```
+
+Polymension:
+```markdown
+Name: Polymension
+GitHub url: https://github.com/Polymension/polymension-contracts
+Documentation: docs.polymension.com
+Website: https://polymension.com/
+Socials: @polymension
+Attribution: [@0xCulha, @avsaryagiz, @burakinkaya, @cozfuttu, @erengulbahar]
+```
