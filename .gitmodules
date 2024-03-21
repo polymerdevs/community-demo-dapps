@@ -4,3 +4,6 @@
 [submodule "community/bet-NBA"]
 	path = community/bet-NBA
 	url = https://github.com/0xVivaLabs/polymer-testnet1-nba
+[submodule "community/joke-Nft-Bridge"]
+	path = community/joke-Nft-Bridge
+	url = https://github.com/yurakas97/dapp.git
