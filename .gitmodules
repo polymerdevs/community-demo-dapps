@@ -7,3 +7,6 @@
 [submodule "community/nba-multichain-betting"]
 	path = community/nba-multichain-betting
 	url = https://github.com/daningyn/bet-dapp-polymer-chain.git
+[submodule "community/simple-lottery-app"]
+	path = community/simple-lottery-app
+	url = https://github.com/daningyn/simple-lottery-ibc-app.git
