@@ -31,3 +31,13 @@ Website: https://polymension.com/
 Socials: @polymension
 Attribution: [@0xCulha, @avsaryagiz, @burakinkaya, @cozfuttu, @erengulbahar]
 ```
+
+Joke NFT Generator:
+```markdown
+Name: Joke NFT Generator
+GitHub url: https://github.com/yurakas97/dapp
+Documentation: https://github.com/yurakas97/dapp/README.md
+Website: N/A
+Socials: N/A
+Attribution: @yurakas97
+```

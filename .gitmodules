@@ -7,3 +7,6 @@
 [submodule "community/Polymension"]
 	path = community/Polymension
 	url = https://github.com/Polymension/polymension-contracts
+[submodule "community/joke-nft-generator"]
+	path = community/joke-nft-generator
+	url = https://github.com/yurakas97/dapp
