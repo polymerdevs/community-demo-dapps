@@ -41,3 +41,23 @@ Website: https://yurakas97.github.io/site/
 Socials: @Yura_Kas
 Attribution: @yurakas97
 ```
+
+Lottery Game:
+```markdown
+Name: Lottery Game
+GitHub url: https://github.com/daningyn/simple-lottery-ibc-app
+Documentation: https://github.com/daningyn/simple-lottery-ibc-app/blob/master/README.md
+Website: N/A
+Socials: @daningyn
+Attribution: [@daningyn, @lyhv]
+```
+
+NBA Multichain Betting Platform:
+```markdown
+Name: NBA Multichain Betting
+GitHub url: https://github.com/daningyn/bet-dapp-polymer-chain
+Documentation: https://github.com/daningyn/bet-dapp-polymer-chain/blob/master/README.md
+Website: https://polymer-bet.daningyn.xyz/
+Socials: @daningyn
+Attribution: [@daningyn, @lyhv, @conghcbapjp]
+```

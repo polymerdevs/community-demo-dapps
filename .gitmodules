@@ -9,4 +9,10 @@
 	url = https://github.com/Polymension/polymension-contracts
 [submodule "community/joke-nft-generator"]
 	path = community/joke-nft-generator
-	url = https://github.com/yurakas97/dapp.git
+	url = https://github.com/yurakas97/dapp
+[submodule "community/nba-multichain-betting"]
+	path = community/nba-multichain-betting
+	url = https://github.com/daningyn/bet-dapp-polymer-chain.git
+[submodule "community/simple-lottery-app"]
+	path = community/simple-lottery-app
+	url = https://github.com/daningyn/simple-lottery-ibc-app.git
