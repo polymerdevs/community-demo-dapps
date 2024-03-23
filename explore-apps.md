@@ -37,8 +37,8 @@ Joke NFT Generator:
 Name: Joke NFT Generator
 GitHub url: https://github.com/yurakas97/dapp
 Documentation: https://github.com/yurakas97/dapp/README.md
-Website: N/A
-Socials: N/A
+Website: https://yurakas97.github.io/site/
+Socials: @Yura_Kas
 Attribution: @yurakas97
 ```
 
