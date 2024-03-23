@@ -21,3 +21,43 @@ Bet NBA:
 - Socials: @0xvivalabs
 - Attribution: [@script-money, @Glacier-Luo]
 ```
+
+Polymension:
+```markdown
+Name: Polymension
+GitHub url: https://github.com/Polymension/polymension-contracts
+Documentation: docs.polymension.com
+Website: https://polymension.com/
+Socials: @polymension
+Attribution: [@0xCulha, @avsaryagiz, @burakinkaya, @cozfuttu, @erengulbahar]
+```
+
+Joke NFT Generator:
+```markdown
+Name: Joke NFT Generator
+GitHub url: https://github.com/yurakas97/dapp
+Documentation: https://github.com/yurakas97/dapp/README.md
+Website: N/A
+Socials: N/A
+Attribution: @yurakas97
+```
+
+Lottery Game:
+```markdown
+Name: Lottery Game
+GitHub url: https://github.com/daningyn/simple-lottery-ibc-app
+Documentation: https://github.com/daningyn/simple-lottery-ibc-app/blob/master/README.md
+Website: N/A
+Socials: @daningyn
+Attribution: [@daningyn, @lyhv]
+```
+
+NBA Multichain Betting Platform:
+```markdown
+Name: NBA Multichain Betting
+GitHub url: https://github.com/daningyn/bet-dapp-polymer-chain
+Documentation: https://github.com/daningyn/bet-dapp-polymer-chain/blob/master/README.md
+Website: https://polymer-bet.daningyn.xyz/
+Socials: @daningyn
+Attribution: [@daningyn, @lyhv, @conghcbapjp]
+```
