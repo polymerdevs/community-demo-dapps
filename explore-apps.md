@@ -61,3 +61,13 @@ Website: https://polymer-bet.daningyn.xyz/
 Socials: @daningyn
 Attribution: [@daningyn, @lyhv, @conghcbapjp]
 ```
+
+IBC Crosschain Token
+```markdown
+Name: IBC Crosschain Token
+GitHub url: https://github.com/GentlemenValidators/erc20-polymerlabs
+Documentation: https://github.com/GentlemenValidators/erc20-polymerlabs/blob/main/report.md
+Website: N/A
+Socials: @n_gentlemenvalidators
+Attribution: [@GentlemenValidators,@Pozzitron1337]
+```

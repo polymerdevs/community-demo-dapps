@@ -16,3 +16,6 @@
 [submodule "community/simple-lottery-app"]
 	path = community/simple-lottery-app
 	url = https://github.com/daningyn/simple-lottery-ibc-app.git
+[submodule "community/IBC-Crosschain-Token"]
+	path = community/IBC-Crosschain-Token
+	url = https://github.com/GentlemenValidators/erc20-polymerlabs
