@@ -71,3 +71,13 @@ Website: N/A
 Socials: @n_gentlemenvalidators
 Attribution: [@GentlemenValidators,@Pozzitron1337]
 ```
+
+Raffle Proof System
+```markdown
+Name: Raffle Proof System
+GitHub url: https://github.com/yavuzkocca/Raffle-Proof-System
+Documentation: https://github.com/yavuzkocca/Raffle-Proof-System/blob/main/README.md
+Website: N/A
+Socials: @yvzkc , @sturec
+Attribution: [@yavuzkocca,@sturec5]
+```
