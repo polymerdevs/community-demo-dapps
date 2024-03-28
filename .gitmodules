@@ -19,3 +19,6 @@
 [submodule "community/IBC-Crosschain-Token"]
 	path = community/IBC-Crosschain-Token
 	url = https://github.com/GentlemenValidators/erc20-polymerlabs
+[submodule "community/Raffle-Proof-System"]
+	path = community/Raffle-Proof-System
+	url = https://github.com/yavuzkocca/Raffle-Proof-System
