@@ -71,3 +71,13 @@ Website: N/A
 Socials: @n_gentlemenvalidators
 Attribution: [@GentlemenValidators,@Pozzitron1337]
 ```
+
+BTN Gifting with Polymer:
+```markdown
+- Name: BTN Gifting with Polymer
+- GitHub url: https://github.com/btuyen2606/btn-gifting-with-polymer
+- Documentation: https://github.com/btuyen2606/btn-gifting-with-polymer/blob/main/README.md
+- Website: localhost
+- Socials: @btuyen
+- Attribution: [@btuyen2606, @khanhchuads, @conghc94]
+```
