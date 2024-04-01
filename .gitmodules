@@ -19,3 +19,6 @@
 [submodule "community/IBC-Crosschain-Token"]
 	path = community/IBC-Crosschain-Token
 	url = https://github.com/GentlemenValidators/erc20-polymerlabs
+[submodule "community/polymer-lottery-contract"]
+	path = community/polymer-lottery-contract
+	url = https://github.com/tuananhht94/polymer-lottery-contract.git

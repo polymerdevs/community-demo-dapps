@@ -71,3 +71,14 @@ Website: N/A
 Socials: @n_gentlemenvalidators
 Attribution: [@GentlemenValidators,@Pozzitron1337]
 ```
+
+Polymer Lottery Contract:
+```markdown
+Name: Polymer Lottery Contract
+GitHub contract url: https://github.com/tuananhht94/polymer-lottery-contract
+GitHub frontend url: https://github.com/tuananhht94/polymer-lottery-app
+Documentation: https://github.com/tuananhht94/polymer-lottery-contract/blob/main/README.md
+Website: https://lottery.tuananh.xyz/
+Socials: @tuananhht94
+Attribution: [@tuananhht94,@juusokaj]
+```
