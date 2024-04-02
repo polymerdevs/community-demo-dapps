@@ -22,3 +22,6 @@
 [submodule "community/polymer-lottery-contract"]
 	path = community/polymer-lottery-contract
 	url = https://github.com/tuananhht94/polymer-lottery-contract.git
+[submodule "community/Raffle-Proof-System"]
+	path = community/Raffle-Proof-System
+	url = https://github.com/yavuzkocca/Raffle-Proof-System.git
