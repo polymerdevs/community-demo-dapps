@@ -92,3 +92,14 @@ Website: N/A
 Socials: @wulingzhi
 Attribution: [@wulingzhiyi]
 ```
+
+Polymer Gift Contract:
+```markdown
+Name: Polymer Gift Contract
+GitHub contract url: https://github.com/pot4e/polymer-gift-smartcontract
+GitHub frontend url: https://github.com/pot4e/polymer-staking-gift-client
+Documentation: https://github.com/pot4e/polymer-gift-smartcontract/blob/main/README.md
+Website: https://gift.tuananh.xyz/
+Socials: @pot4e
+Attribution: [@daningyn,@batuoc263,@kushin101094,@lyhv,@ThanhTuan1695,@tuananhht94]
+```

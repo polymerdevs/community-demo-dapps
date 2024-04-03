@@ -25,3 +25,6 @@
 [submodule "community/polymer-bridge"]
 	path = community/polymer-bridge
 	url = https://github.com/wulingzhiyi/polymer-bridge.git
+[submodule "community/polymer-gift-contract"]
+	path = community/polymer-gift-contract
+	url = https://github.com/pot4e/polymer-gift-smartcontract.git
