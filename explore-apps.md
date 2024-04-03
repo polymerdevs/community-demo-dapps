@@ -83,9 +83,9 @@ Socials: @tuananhht94
 Attribution: [@tuananhht94,@juusokaj]
 ```
 
-Polymer IBC bridge:
+Polymer bridge:
 ```markdown
-Name: Polymer IBC bridge
+Name: Polymer bridge
 GitHub url: https://github.com/wulingzhiyi/polymer-bridge
 Documentation: https://github.com/wulingzhiyi/polymer-bridge/blob/main/README.md
 Website: N/A
