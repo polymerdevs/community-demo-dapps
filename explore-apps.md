@@ -82,3 +82,13 @@ Website: https://lottery.tuananh.xyz/
 Socials: @tuananhht94
 Attribution: [@tuananhht94,@juusokaj]
 ```
+
+Polymer IBC bridge:
+```markdown
+Name: Polymer IBC bridge
+GitHub url: https://github.com/wulingzhiyi/polymer-bridge
+Documentation: https://github.com/wulingzhiyi/polymer-bridge/blob/main/README.md
+Website: N/A
+Socials: @wulingzhi
+Attribution: [@wulingzhiyi]
+```

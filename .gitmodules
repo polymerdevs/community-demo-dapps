@@ -22,3 +22,6 @@
 [submodule "community/polymer-lottery-contract"]
 	path = community/polymer-lottery-contract
 	url = https://github.com/tuananhht94/polymer-lottery-contract.git
+[submodule "community/polymer-bridge"]
+	path = community/polymer-bridge
+	url = https://github.com/wulingzhiyi/polymer-bridge.git
