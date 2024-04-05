@@ -19,6 +19,15 @@
 [submodule "community/IBC-Crosschain-Token"]
 	path = community/IBC-Crosschain-Token
 	url = https://github.com/GentlemenValidators/erc20-polymerlabs
+[submodule "community/polymer-lottery-contract"]
+	path = community/polymer-lottery-contract
+	url = https://github.com/tuananhht94/polymer-lottery-contract.git
+[submodule "community/polymer-bridge"]
+	path = community/polymer-bridge
+	url = https://github.com/wulingzhiyi/polymer-bridge.git
+[submodule "community/polymer-gift-contract"]
+	path = community/polymer-gift-contract
+	url = https://github.com/pot4e/polymer-gift-smartcontract.git
 [submodule "community/btn-gifting-with-polymer"]
 	path = community/btn-gifting-with-polymer
 	url = https://github.com/btuyen2606/btn-gifting-with-polymer
