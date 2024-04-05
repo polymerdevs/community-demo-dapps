@@ -103,3 +103,14 @@ Website: https://gift.tuananh.xyz/
 Socials: @pot4e
 Attribution: [@daningyn,@batuoc263,@kushin101094,@lyhv,@ThanhTuan1695,@tuananhht94]
 ```
+
+Polymer ETH Bridge Contract:
+```markdown
+Name: Polymer ETH Bridge Contract
+GitHub contract url: https://github.com/anhhtvip/polymer-bridge-contract
+GitHub frontend url: https://github.com/anhhtvip/eth-bridge-polymer-chain
+Documentation: https://github.com/anhhtvip/polymer-bridge-contract/blob/main/README.md
+Website: https://bridge.tuananh.xyz/
+Socials: @anhhtvip
+Attribution: [@anhhtvip,@leiz95]
+```
