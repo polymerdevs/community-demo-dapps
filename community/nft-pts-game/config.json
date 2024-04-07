@@ -1,0 +1,43 @@
+{
+  "proofsEnabled": false,
+  "deploy": {
+    "optimism": "PolyPTS",
+    "base": "PolyNFT"
+  },
+  "isUniversal": true,
+  "createChannel": {
+    "srcChain": "optimism",
+    "srcAddr": "0x1234567890AbCdEf1234567890aBcDeF12345678",
+    "dstChain": "base",
+    "dstAddr": "0x1234567890AbCdEf1234567890aBcDeF12345678",
+    "version": "1.0",
+    "ordering": 0,
+    "fees": false
+  },
+  "sendPacket": {
+    "optimism": {
+      "portAddr": "0x1234567890abcdef1234567890abcdef12345678",
+      "channelId": "channel-n",
+      "timeout": 36000
+    },
+    "base": {
+      "portAddr": "0x1234567890abcdef1234567890abcdef12345678",
+      "channelId": "channel-n",
+      "timeout": 36000
+    }
+  },
+  "sendUniversalPacket": {
+    "optimism": {
+      "portAddr": "0x5a2e1C779158B8500557920bdc81E4cc53DEe54E",
+      "channelId": "channel-10",
+      "timeout": 36000
+    },
+    "base": {
+      "portAddr": "0x3DACA6eB95A079e6678Fb45dF53F3c64BF246fE3",
+      "channelId": "channel-11",
+      "timeout": 36000
+    }
+  },
+  "backup": {},
+  "SpinWheelGameAddr": "0x3DACA6eB95A079e6678Fb45dF53F3c64BF246fE3"
+}
