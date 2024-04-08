@@ -28,3 +28,6 @@
 [submodule "community/polymer-gift-contract"]
 	path = community/polymer-gift-contract
 	url = https://github.com/pot4e/polymer-gift-smartcontract.git
+[submodule "community/polymer-gaming-contract"]
+	path = community/polymer-gaming-contract
+	url = https://github.com/tuananhht94/polymer-gaming-contract

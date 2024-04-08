@@ -103,3 +103,13 @@ Website: https://gift.tuananh.xyz/
 Socials: @pot4e
 Attribution: [@daningyn,@batuoc263,@kushin101094,@lyhv,@ThanhTuan1695,@tuananhht94]
 ```
+
+NFT Gaming Dapp - Phase 2:
+```markdown
+Name: NFT Gaming Dapp
+GitHub contract url: https://github.com/tuananhht94/polymer-gaming-contract
+GitHub frontend url: https://github.com/tuananhht94/polymer-gaming-frontend
+Documentation: https://forum.polymerlabs.org/t/quest-for-gaming-dapp-to-be-used-in-phase-2/714
+Socials: @halosumiu
+Website: https://polymer-phase2.tuananh.xyz/
+Attribution: [@lyhv,@kushin101094,@tuananhht94,@ThanhTuan1695]
