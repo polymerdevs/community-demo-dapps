@@ -93,6 +93,15 @@ Socials: @tuananhht94
 Attribution: [@tuananhht94,@juusokaj]
 ```
 
+Assets Cross Chain Bridge
+```markdown
+Name: Assets Cross Chain Bridge
+GitHub url: https://github.com/ziheche/Assets-cross-chain
+Documentation: https://github.com/ziheche/Assets-cross-chain/blob/main/README.md
+Website: N/A
+Socials: @ziheche
+Attribution: [@ziheche]
+
 Polymer bridge:
 ```markdown
 Name: Polymer bridge

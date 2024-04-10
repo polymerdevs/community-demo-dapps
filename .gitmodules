@@ -22,6 +22,9 @@
 [submodule "community/polymer-lottery-contract"]
 	path = community/polymer-lottery-contract
 	url = https://github.com/tuananhht94/polymer-lottery-contract.git
+[submodule "community/Asset-cross-chain-bridge"]
+	path = community/Asset-cross-chain-bridge
+	url = https://github.com/ziheche/Assets-cross-chain.git
 [submodule "community/polymer-bridge"]
 	path = community/polymer-bridge
 	url = https://github.com/wulingzhiyi/polymer-bridge.git
@@ -40,4 +43,3 @@
 [submodule "community/polymer-pts-nft-game"]
 	path = community/polymer-pts-nft-game
 	url = https://github.com/wangthing/dapp-closer-tonny
-
