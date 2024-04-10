@@ -103,3 +103,12 @@ Website: https://gift.tuananh.xyz/
 Socials: @pot4e
 Attribution: [@daningyn,@batuoc263,@kushin101094,@lyhv,@ThanhTuan1695,@tuananhht94]
 ```
+
+Bridge Lottery : 
+```markdown
+- Name: Bridge Lottery
+- GitHub url: https://github.com/orgs/bridge-lottery/repositories
+- Documentation:https://github.com/bridge-lottery/community-demo-dapps
+- Website:N/A
+- Socials: @KharkibPaul
+- Attribution: [@Gpaul26,@pctsvn,@chienmaidinh,@TuanAnh1196.@hunteran]
