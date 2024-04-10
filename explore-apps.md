@@ -114,3 +114,24 @@ Website: https://bridge.tuananh.xyz/
 Socials: @anhhtvip
 Attribution: [@anhhtvip,@leiz95]
 ```
+
+BTC Token Bridge:
+```markdown
+Name: BTC Token Bridge
+GitHub url: https://github.com/caoshanhuyi/BTC-bridge-contract
+Documentation: https://github.com/caoshanhuyi/BTC-bridge-contract/blob/main/README.md
+Website: N/A
+Socials: @caoshanhu0689
+Attribution: [@caoshanhuyi]
+
+Polymer pts xchain NFT Game!:
+```markdown
+Name: Polymer pts xchain NFT Game!
+GitHub contract url: https://github.com/mtroym/demo-dapps
+GitHub frontend url: https://github.com/wangthing/dapp-closer-tonny
+Documentation: https://github.com/mtroym/demo-dapps/blob/main/README.md
+Website: N/A
+DemoVideo: https://youtu.be/FukTFKlIrlM
+Socials: discord:0x77777, @wangthingp
+Attribution: [@mtroym,@wangthing]
+```
