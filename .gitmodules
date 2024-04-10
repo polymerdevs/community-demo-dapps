@@ -25,3 +25,21 @@
 [submodule "community/Asset-cross-chain-bridge"]
 	path = community/Asset-cross-chain-bridge
 	url = https://github.com/ziheche/Assets-cross-chain.git
+[submodule "community/polymer-bridge"]
+	path = community/polymer-bridge
+	url = https://github.com/wulingzhiyi/polymer-bridge.git
+[submodule "community/polymer-gift-contract"]
+	path = community/polymer-gift-contract
+	url = https://github.com/pot4e/polymer-gift-smartcontract.git
+[submodule "community/btn-gifting-with-polymer"]
+	path = community/btn-gifting-with-polymer
+	url = https://github.com/btuyen2606/btn-gifting-with-polymer
+[submodule "polymer-eth-bridge-contract"]
+	path = polymer-eth-bridge-contract
+	url = https://github.com/anhhtvip/polymer-bridge-contract.git
+[submodule "community/BTC-token-bridge"]
+	path = community/BTC-token-bridge
+	url = https://github.com/caoshanhuyi/BTC-bridge-contract.git
+[submodule "community/polymer-pts-nft-game"]
+	path = community/polymer-pts-nft-game
+	url = https://github.com/wangthing/dapp-closer-tonny
