@@ -113,3 +113,35 @@ Website: https://gift.tuananh.xyz/
 Socials: @pot4e
 Attribution: [@daningyn,@batuoc263,@kushin101094,@lyhv,@ThanhTuan1695,@tuananhht94]
 ```
+
+Polymer ETH Bridge Contract:
+```markdown
+Name: Polymer ETH Bridge Contract
+GitHub contract url: https://github.com/anhhtvip/polymer-bridge-contract
+GitHub frontend url: https://github.com/anhhtvip/eth-bridge-polymer-chain
+Documentation: https://github.com/anhhtvip/polymer-bridge-contract/blob/main/README.md
+Website: https://bridge.tuananh.xyz/
+Socials: @anhhtvip
+Attribution: [@anhhtvip,@leiz95]
+```
+
+BTC Token Bridge:
+```markdown
+Name: BTC Token Bridge
+GitHub url: https://github.com/caoshanhuyi/BTC-bridge-contract
+Documentation: https://github.com/caoshanhuyi/BTC-bridge-contract/blob/main/README.md
+Website: N/A
+Socials: @caoshanhu0689
+Attribution: [@caoshanhuyi]
+
+Polymer pts xchain NFT Game!:
+```markdown
+Name: Polymer pts xchain NFT Game!
+GitHub contract url: https://github.com/mtroym/demo-dapps
+GitHub frontend url: https://github.com/wangthing/dapp-closer-tonny
+Documentation: https://github.com/mtroym/demo-dapps/blob/main/README.md
+Website: N/A
+DemoVideo: https://youtu.be/FukTFKlIrlM
+Socials: discord:0x77777, @wangthingp
+Attribution: [@mtroym,@wangthing]
+```
