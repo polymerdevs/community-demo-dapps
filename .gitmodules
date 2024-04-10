@@ -37,12 +37,12 @@
 [submodule "community/btn-gifting-with-polymer"]
 	path = community/btn-gifting-with-polymer
 	url = https://github.com/btuyen2606/btn-gifting-with-polymer
-[submodule "community/polymer-eth-bridge-contract"]
-	path = community/polymer-eth-bridge-contract
-	url = https://github.com/anhhtvip/polymer-bridge-contract.git
 [submodule "community/BTC-token-bridge"]
 	path = community/BTC-token-bridge
 	url = https://github.com/caoshanhuyi/BTC-bridge-contract.git
 [submodule "community/polymer-pts-nft-game"]
 	path = community/polymer-pts-nft-game
 	url = https://github.com/wangthing/dapp-closer-tonny
+[submodule "community/polymer-eth-bridge-contract"]
+	path = community/polymer-eth-bridge-contract
+	url = https://github.com/anhhtvip/polymer-bridge-contract.git
