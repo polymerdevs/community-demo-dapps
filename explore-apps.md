@@ -103,3 +103,15 @@ Website: https://gift.tuananh.xyz/
 Socials: @pot4e
 Attribution: [@daningyn,@batuoc263,@kushin101094,@lyhv,@ThanhTuan1695,@tuananhht94]
 ```
+
+Polymer pts xchain NFT Game!:
+```markdown
+Name: Polymer pts xchain NFT Game!
+GitHub contract url: https://github.com/mtroym/demo-dapps
+GitHub frontend url: https://github.com/wangthing/dapp-closer-tonny
+Documentation: https://github.com/mtroym/demo-dapps/blob/main/README.md
+Website: N/A
+DemoVideo: https://youtu.be/FukTFKlIrlM
+Socials: discord:0x77777, @wangthingp
+Attribution: [@mtroym,@wangthing]
+```
