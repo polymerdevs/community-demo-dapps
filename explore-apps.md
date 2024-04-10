@@ -93,6 +93,15 @@ Socials: @tuananhht94
 Attribution: [@tuananhht94,@juusokaj]
 ```
 
+Raffle Proof System
+```markdown
+Name: Raffle Proof System
+GitHub url: https://github.com/yavuzkocca/Raffle-Proof-System
+Documentation: https://github.com/yavuzkocca/Raffle-Proof-System/blob/main/README.md
+Website: N/A
+Socials: @yvzkc , @sturec
+Attribution: [@yavuzkocca,@sturec5]
+
 Assets Cross Chain Bridge
 ```markdown
 Name: Assets Cross Chain Bridge
