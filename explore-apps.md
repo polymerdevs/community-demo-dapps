@@ -104,6 +104,15 @@ Socials: @pot4e
 Attribution: [@daningyn,@batuoc263,@kushin101094,@lyhv,@ThanhTuan1695,@tuananhht94]
 ```
 
+BTC Token Bridge:
+```markdown
+Name: BTC Token Bridge
+GitHub url: https://github.com/caoshanhuyi/BTC-bridge-contract
+Documentation: https://github.com/caoshanhuyi/BTC-bridge-contract/blob/main/README.md
+Website: N/A
+Socials: @caoshanhu0689
+Attribution: [@caoshanhuyi]
+
 Polymer pts xchain NFT Game!:
 ```markdown
 Name: Polymer pts xchain NFT Game!

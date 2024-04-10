@@ -28,6 +28,9 @@
 [submodule "community/polymer-gift-contract"]
 	path = community/polymer-gift-contract
 	url = https://github.com/pot4e/polymer-gift-smartcontract.git
+[submodule "community/BTC-token-bridge"]
+	path = community/BTC-token-bridge
+	url = https://github.com/caoshanhuyi/BTC-bridge-contract.git
 [submodule "community/polymer-pts-nft-game"]
 	path = community/polymer-pts-nft-game
 	url = https://github.com/wangthing/dapp-closer-tonny
