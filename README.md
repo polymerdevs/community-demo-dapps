@@ -1,18 +1,3 @@
-Team Members
-
-@Gpaul26 - Team Leader
-
-@ChienMaiDinh - Developers
-
-@hunteran - Developers
-
-@pctsvn - Developers
-
-@TuanAnh1196 - Developers
-
-
-
-
 # 🦸🏼🦸🏾‍♂️ Community dApps for Polymer 🦸🏾‍♀️🦸🏻
 
 Welcome to the official repository for [Polymer](https://polymerlabs.org) community demo applications! This repository serves as a centralized hub for the demo dApps created by the Polymer community!
