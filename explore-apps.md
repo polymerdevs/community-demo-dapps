@@ -177,3 +177,12 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+Bridge Lottery:
+```markdown
+Name: Bridge Lottery
+GitHub url: https://github.com/Gpaul26/user-ui
+Documentation: https://github.com/Gpaul26/user-ui/blob/master/README.md
+Website: to-be-deploy
+Socials: Discord : gpaul , @KharkibPaul
+Attribution: [@Gpaul26,@ChienMaiDinh,@hunteran,@pctsvn,@TuanAnh1196]
+```
