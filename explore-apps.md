@@ -174,4 +174,4 @@ Bridge Lottery
 - Documentation:https://github.com/bridge-lottery/community-demo-dapps/blob/main/README.md 
 - Website: N/A
 - Socials: Discord : gpaul ,  [@KharkibPaul](https://t.me/KharkibPaul)
-- Attribution: [Gpaul26  , @ChienMaiDinh  , @hunteran  , @pctsvn  , @TuanAnh1196]
+- Attribution: [@Gpaul26  , @ChienMaiDinh  , @hunteran  , @pctsvn  , @TuanAnh1196]
