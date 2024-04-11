@@ -46,3 +46,6 @@
 [submodule "community/polymer-eth-bridge-contract"]
 	path = community/polymer-eth-bridge-contract
 	url = https://github.com/anhhtvip/polymer-bridge-contract.git
+[submodule "community/bridge-lottery"]
+	path = community/bridge-lottery
+	url = https://github.com/bridge-lottery/community-demo-dapps.git
