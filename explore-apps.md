@@ -166,3 +166,14 @@ DemoVideo: https://youtu.be/FukTFKlIrlM
 Socials: discord:0x77777, @wangthingp
 Attribution: [@mtroym,@wangthing]
 ```
+
+Polymer NFT-Point Earning Contract:
+```markdown
+Name: Polymer NFT-Point Earning Contract
+GitHub contract url: https://github.com/chienj1/polymer-nft-point-earning-game
+GitHub frontend url: https://github.com/chienj1/polymer-nft-point-earning-game/tree/main/frontend
+Documentation: https://github.com/chienj1/polymer-nft-point-earning-game/blob/main/README.md
+Website: to-be-deploy
+Socials: @motion_28
+Attribution: [@chienj1]
+```

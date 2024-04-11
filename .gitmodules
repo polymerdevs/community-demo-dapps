@@ -46,3 +46,6 @@
 [submodule "community/polymer-eth-bridge-contract"]
 	path = community/polymer-eth-bridge-contract
 	url = https://github.com/anhhtvip/polymer-bridge-contract.git
+[submodule "community/polymer-nft-point-earning-game"]
+	path = community/polymer-nft-point-earning-game
+	url = https://github.com/chienj1/polymer-nft-point-earning-game.git
