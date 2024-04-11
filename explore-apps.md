@@ -166,3 +166,12 @@ DemoVideo: https://youtu.be/FukTFKlIrlM
 Socials: discord:0x77777, @wangthingp
 Attribution: [@mtroym,@wangthing]
 ```
+
+
+Bridge Lottery
+- Name: Bridge Lottery
+- GitHub url: https://github.com/orgs/bridge-lottery/repositories
+- Documentation:https://github.com/bridge-lottery/community-demo-dapps/blob/main/README.md 
+- Website: N/A
+- Socials: Discord : gpaul ,  [@KharkibPaul](https://t.me/KharkibPaul)
+- Attribution: [Gpaul26  , @ChienMaiDinh  , @hunteran  , @pctsvn  , @TuanAnh1196]
