@@ -23,6 +23,7 @@ Bet NBA:
 ```
 
 Polymension:
+
 ```markdown
 Name: Polymension
 GitHub url: https://github.com/Polymension/polymension-contracts
@@ -33,6 +34,7 @@ Attribution: [@0xCulha, @avsaryagiz, @burakinkaya, @cozfuttu, @erengulbahar]
 ```
 
 Joke NFT Generator:
+
 ```markdown
 Name: Joke NFT Generator
 GitHub url: https://github.com/yurakas97/dapp
@@ -43,6 +45,7 @@ Attribution: @yurakas97
 ```
 
 Lottery Game:
+
 ```markdown
 Name: Lottery Game
 GitHub url: https://github.com/daningyn/simple-lottery-ibc-app
@@ -53,6 +56,7 @@ Attribution: [@daningyn, @lyhv]
 ```
 
 NBA Multichain Betting Platform:
+
 ```markdown
 Name: NBA Multichain Betting
 GitHub url: https://github.com/daningyn/bet-dapp-polymer-chain
@@ -63,6 +67,7 @@ Attribution: [@daningyn, @lyhv, @conghcbapjp]
 ```
 
 IBC Crosschain Token
+
 ```markdown
 Name: IBC Crosschain Token
 GitHub url: https://github.com/GentlemenValidators/erc20-polymerlabs
@@ -73,6 +78,7 @@ Attribution: [@GentlemenValidators,@Pozzitron1337]
 ```
 
 BTN Gifting with Polymer:
+
 ```markdown
 - Name: BTN Gifting with Polymer
 - GitHub url: https://github.com/btuyen2606/btn-gifting-with-polymer
@@ -83,6 +89,7 @@ BTN Gifting with Polymer:
 ```
 
 Polymer Lottery Contract:
+
 ```markdown
 Name: Polymer Lottery Contract
 GitHub contract url: https://github.com/tuananhht94/polymer-lottery-contract
@@ -94,6 +101,7 @@ Attribution: [@tuananhht94,@juusokaj]
 ```
 
 Raffle Proof System
+
 ```markdown
 Name: Raffle Proof System
 GitHub url: https://github.com/yavuzkocca/Raffle-Proof-System
@@ -104,6 +112,7 @@ Attribution: [@yavuzkocca,@sturec5]
 ```
 
 Assets Cross Chain Bridge
+
 ```markdown
 Name: Assets Cross Chain Bridge
 GitHub url: https://github.com/ziheche/Assets-cross-chain
@@ -114,6 +123,7 @@ Attribution: [@ziheche]
 ```
 
 Polymer bridge:
+
 ```markdown
 Name: Polymer bridge
 GitHub url: https://github.com/wulingzhiyi/polymer-bridge
@@ -124,6 +134,7 @@ Attribution: [@wulingzhiyi]
 ```
 
 Polymer Gift Contract:
+
 ```markdown
 Name: Polymer Gift Contract
 GitHub contract url: https://github.com/pot4e/polymer-gift-smartcontract
@@ -135,6 +146,7 @@ Attribution: [@daningyn,@batuoc263,@kushin101094,@lyhv,@ThanhTuan1695,@tuananhht
 ```
 
 Polymer ETH Bridge Contract:
+
 ```markdown
 Name: Polymer ETH Bridge Contract
 GitHub contract url: https://github.com/anhhtvip/polymer-bridge-contract
@@ -146,6 +158,7 @@ Attribution: [@anhhtvip,@leiz95]
 ```
 
 BTC Token Bridge:
+
 ```markdown
 Name: BTC Token Bridge
 GitHub url: https://github.com/caoshanhuyi/BTC-bridge-contract
@@ -156,6 +169,7 @@ Attribution: [@caoshanhuyi]
 ```
 
 Polymer pts xchain NFT Game!:
+
 ```markdown
 Name: Polymer pts xchain NFT Game!
 GitHub contract url: https://github.com/mtroym/demo-dapps
@@ -168,6 +182,7 @@ Attribution: [@mtroym,@wangthing]
 ```
 
 Polymer NFT-Point Earning Contract:
+
 ```markdown
 Name: Polymer NFT-Point Earning Contract
 GitHub contract url: https://github.com/chienj1/polymer-nft-point-earning-game
@@ -176,4 +191,19 @@ Documentation: https://github.com/chienj1/polymer-nft-point-earning-game/blob/ma
 Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
+```
+
+Polymer IBC Inspector, Indexer, GraphQL API server:
+
+```markdown
+Name: Steven Lei
+GitHub frontend url: https://github.com/stevenlei/polymer-ibc-inspector-next
+GitHub indexer & GraphQL API server url: https://github.com/stevenlei/polymer-ibc-indexer
+GitHub socket server url: https://github.com/stevenlei/polymer-ibc-inspector-socket
+Documentation (frontend): https://github.com/stevenlei/polymer-ibc-inspector-next/blob/main/README.md
+Documentation (indexer & GraphQL API server): https://github.com/stevenlei/polymer-ibc-indexer/blob/main/README.md
+Documentation (socket server): https://github.com/stevenlei/polymer-ibc-inspector-socket/blob/main/README.md
+Website: https://ibcinspector.com/
+Socials: @stevenkin
+Attribution: [@stevenlei]
 ```
