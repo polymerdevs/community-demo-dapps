@@ -177,3 +177,14 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+Polymer cross-chain bridge
+```markdown
+Name: Polymer cross-chain bridge
+GitHub contract url: https://github.com/gaoshangniubi123/PolymerLover
+GitHub frontend url: https://github.com/gaoshangniubi123/polymer-love-frontend
+Documentation: https://github.com/gaoshangniubi123/PolymerLover/blob/main/README.md
+Website: to-be-deploy
+Socials: discord: wiwo9725
+Attribution: [@gaoshangniubi123]
+```
