@@ -49,3 +49,12 @@
 [submodule "community/polymer-nft-point-earning-game"]
 	path = community/polymer-nft-point-earning-game
 	url = https://github.com/chienj1/polymer-nft-point-earning-game.git
+[submodule "community/polymer-ibc-inspector-next"]
+	path = community/polymer-ibc-inspector-next
+	url = https://github.com/stevenlei/polymer-ibc-inspector-next
+[submodule "community/polymer-ibc-indexer"]
+	path = community/polymer-ibc-indexer
+	url = https://github.com/stevenlei/polymer-ibc-indexer
+[submodule "community/polymer-ibc-inspector-socket"]
+	path = community/polymer-ibc-inspector-socket
+	url = https://github.com/stevenlei/polymer-ibc-inspector-socket
