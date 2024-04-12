@@ -177,3 +177,12 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+vIBC Knife:
+```markdown
+Name: vIBC Knife
+GitHub url: https://github.com/Halimao/vibc-knife
+Documentation: https://github.com/Halimao/vibc-knife/blob/main/README.md
+Socials: @Halimao520
+Attribution: [@Halimao]
+```
