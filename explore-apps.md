@@ -177,3 +177,13 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+Polymer ERC20 token:
+```markdown
+Name: Polymer ERC20 token
+GitHub url: https://github.com/Jaycelv/contract-demo
+Documentation: https://github.com/Jaycelv/contract-demo/blob/main/README.md
+Website: N/A
+Socials: discord: Jayce(jayce_2024)
+Attribution: [@Jaycelv]
+```
