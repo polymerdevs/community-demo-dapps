@@ -177,3 +177,14 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+Polymer asset bridge:
+```markdown
+Name: Polymer asset bridge
+GitHub contract url: https://github.com/morrisernest/Aqua
+GitHub frontend url: https://github.com/morrisernest/frontend-page
+Documentation: https://github.com/morrisernest/Aqua/blob/main/README.md
+Website: to-be-deploy
+Socials: discord: johnnysith.
+Attribution: [@morrisernest]
+```
