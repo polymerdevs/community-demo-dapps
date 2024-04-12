@@ -177,3 +177,13 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+UnityPay:
+```markdown
+- Name: UnityPay
+- GitHub url: https://github.com/subomi-me/UnityPay
+- Documentation: https://github.com/subomi-me/UnityPay/blob/main/README.md
+- Website: N/A
+- Socials: @tescoalade
+- Attribution: [@subomi-me]
+```
