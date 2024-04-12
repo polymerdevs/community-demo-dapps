@@ -177,3 +177,14 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+Polymer token cross-chain dapp:
+```markdown
+Name: Polymer token cross-chain dapp
+GitHub contract url: https://github.com/Cathy771/Mozi
+GitHub frontend url: https://github.com/Cathy771/mozi-frontend
+Documentation: https://github.com/Cathy771/Mozi/blob/main/README.md
+Website: to-be-deploy
+Socials: discord: spinningmonkey4452
+Attribution: [@Cathy771]
+```
