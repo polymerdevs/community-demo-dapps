@@ -177,3 +177,14 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+Polymer ERC token bridge:
+```markdown
+Name: Polymer ERC token bridge
+GitHub contract url: https://github.com/timothygodsey/SuperMan
+GitHub frontend url: https://github.com/timothygodsey/SuperMan-frontend
+Documentation: https://github.com/timothygodsey/SuperMan/blob/main/README.md
+Website: to-be-deploy
+Socials: discord: gr4386_
+Attribution: [@timothygodsey]
+```
