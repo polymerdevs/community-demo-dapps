@@ -177,3 +177,13 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+vibc-sdk:
+```markdown
+- Name: vibc sdk
+- GitHub url: https://github.com/script-money/vibc-sdk
+- Documentation: https://github.com/script-money/vibc-sdk/blob/main/README.md
+- Website: N/A
+- Socials: @scriptdotmoney
+- Attribution: [@script-money]
+```

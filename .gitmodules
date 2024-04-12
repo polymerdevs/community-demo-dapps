@@ -49,3 +49,6 @@
 [submodule "community/polymer-nft-point-earning-game"]
 	path = community/polymer-nft-point-earning-game
 	url = https://github.com/chienj1/polymer-nft-point-earning-game.git
+[submodule "community/vibc-sdk"]
+	path = community/vibc-sdk
+	url = https://github.com/script-money/vibc-sdk
