@@ -177,3 +177,14 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+Polymer Native token bridge:
+```markdown
+Name: Polymer Native token bridge
+GitHub contract url: https://github.com/Ronald94554/PolymerGod
+GitHub frontend url: https://github.com/Ronald94554/polymer-god-dapp
+Documentation: https://github.com/Ronald94554/PolymerGod/blob/main/README.md
+Website: N/A
+Socials: discord: 6zchris
+Attribution: [@Ronald94554]
+```
