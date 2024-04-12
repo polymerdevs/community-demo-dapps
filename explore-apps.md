@@ -177,3 +177,13 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+Polymer lottery:
+```markdown
+Name: Polymer lottery
+GitHub url: https://github.com/lsc949982212/polymer-bridge
+Documentation: https://github.com/lsc949982212/polymer-bridge/blob/main/README.md
+Website: N/A
+Socials: @banxia0860
+Attribution: [@lsc949982212]
+```

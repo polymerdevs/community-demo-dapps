@@ -49,3 +49,6 @@
 [submodule "community/polymer-nft-point-earning-game"]
 	path = community/polymer-nft-point-earning-game
 	url = https://github.com/chienj1/polymer-nft-point-earning-game.git
+[submodule "community/Polymer-lottery"]
+	path = community/Polymer-lottery
+	url = https://github.com/lsc949982212/polymer-bridge.git
