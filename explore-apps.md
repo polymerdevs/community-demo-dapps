@@ -177,3 +177,14 @@ Website: to-be-deploy
 Socials: @motion_28
 Attribution: [@chienj1]
 ```
+
+Web Service to analyze IBC channels
+
+```markdown
+- Name: Polylens
+- GitHub url: https://github.com/IbcFan/polylens
+- Documentation: https://github.com/IbcFan/polylens/README.md
+- Website: https://www.polylens.co/
+- Socials: discord:lbcFan, discord:eigenvibes
+- Attribution: [@IbcFan, @eigenvibes]
+```

@@ -49,3 +49,6 @@
 [submodule "community/polymer-nft-point-earning-game"]
 	path = community/polymer-nft-point-earning-game
 	url = https://github.com/chienj1/polymer-nft-point-earning-game.git
+[submodule "community/polylens"]
+	path = community/polylens
+	url = https://github.com/IbcFan/polylens.git
